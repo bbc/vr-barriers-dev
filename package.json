@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bbc/vr-barriers-dev/issues"
   },
-  "homepage": "https://github.com/bbc/vr-barriers-dev#readme"
+  "homepage": "https://github.com/bbc/vr-barriers-dev#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
 }
