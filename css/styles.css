@@ -5,3 +5,11 @@ body {
   max-width: 595px;
   margin: 0 auto;
 }
+
+img {
+  width: 100%;
+}
+
+hr {
+  border-top: 3px solid #404040;
+}
