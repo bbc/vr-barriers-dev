@@ -1,0 +1,20 @@
+{
+  "name": "vr-barriers-dev",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "eleventy --input=./src/ --output=docs/ --formats=md,html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbc/vr-barriers-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbc/vr-barriers-dev/issues"
+  },
+  "homepage": "https://github.com/bbc/vr-barriers-dev#readme"
+}
