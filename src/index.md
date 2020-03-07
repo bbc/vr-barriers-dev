@@ -5,9 +5,7 @@ title: Articles from Medium
 
 ## Welcome
 
-Welcome to the online home of the BBC VR Barriers Project.
-
-The project started it in late 2017 to develop an understanding of barriers within VR experiences so we can support future BBC projects and develop best practices
+Welcome to the online home of the BBC VR Barriers Project. The project ran from early 2018 to late 2020 to develop an understanding of barriers within VR experiences so we can support future BBC projects and develop best practices
 
 The goals of the project are:
 
@@ -19,22 +17,36 @@ The goals of the project are:
 
 ---
 
-## Dataset & User Guide Download
+## Barriers Dataset
 
-Coming late 2020...
+The project has produced a number of documents and dataset. The main dataset is the **barriers dataset**. This download provides a summery of the 1000+ observations collected during the project, plus a user guide.
 
-## Overview & Methdology
+[Download Barriers Dataset & User Guide (Zip)](/download)
 
-General overview of the project to date.
+---
 
-## Switch Access
+## Experiments
+
+The purpose of the barriers research is to collect a dataset of the _large_ and _small_ barriers present within VR environments.
+
+While solutions are not in scope for the project as a whole, it’s often necessary to resolve some of the large barriers in order for the smaller barriers to be observed.
+
+The following sections document our activity in a number of key areas.
+
+### Performance 
+
+A key consideration of the project has been to safeguard the well being of the participants. Participants are aged from 14 to 93. Many are vulnerable and within high risk groups for epileptic conditions.
+
+[Download Performance Paper (PDF)](/download)
+
+### Switch Access
 
 Details of our experiments with switch accessible environments and control schemes.
 
-## Low Vision VR Design
+[Download Switches Paper (PDF)](/download)
 
-Details of our experiements with developing VR environments for low vision users.
+### Low Vision VR Design
 
-## Performance & Stress Testing
+Details of our experiments with developing VR environments for low vision users.
 
-Details of our experiments of performance testing with robots, software and physical test rigs.
+[Download Low Vision Design Paper (PDF)](/download)
