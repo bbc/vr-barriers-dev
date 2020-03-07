@@ -1,3 +1,8 @@
+---
+layout: base.njk
+title: Articles from Medium
+---
+
 # BBC VR Barriers Project
 
 Welcome to the online home of the BBC VR Barriers Project.
@@ -12,7 +17,7 @@ The goals of the project are:
 
 3. To develop a methodology and environment for user testing VR with a diverse user group.
 
-## Dataset & User Guide Doneload
+## Dataset & User Guide Download
 
 Coming late 2020...
 
